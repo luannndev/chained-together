@@ -1,0 +1,6 @@
+name: ChainedTogether
+version: '${version}'
+main: dev.luan.chained.ChainedTogether
+api-version: '1.21.1'
+authors:
+  - luannndev
