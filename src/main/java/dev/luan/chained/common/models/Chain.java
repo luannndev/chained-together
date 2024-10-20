@@ -1,6 +1,6 @@
 package dev.luan.chained.common.models;
 
-import dev.luan.chained.enums.Difficulty;
+import dev.luan.chained.common.enums.Difficulty;
 import lombok.Builder;
 import lombok.Data;
 import org.bukkit.Location;
