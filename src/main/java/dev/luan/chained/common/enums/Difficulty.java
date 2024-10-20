@@ -1,4 +1,4 @@
-package dev.luan.chained.enums;
+package dev.luan.chained.common.enums;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -17,5 +17,5 @@ public enum Difficulty {
 
     private final double chainLength;
     private final String displayName;
-    private final TextColor textColor;
+    private final TextColor color;
 }
